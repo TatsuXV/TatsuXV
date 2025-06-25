@@ -29,11 +29,16 @@
 ---
 
 ### 🧠 Em aprendizado
-- Java Avançado
-- Spring Boot (REST API, JPA, etc.)
-- SQL e Banco de Dados
-- Versionamento com Git
-- Lógica e algoritmos
+- Java Avançado  
+- Spring Boot (REST API, JPA, etc.)  
+- SQL e Banco de Dados  
+- Versionamento com Git  
+- Lógica e algoritmos  
+- Docker e containers  
+- DevOps (CI/CD, integração e entrega contínua)  
+- Testes automatizados (JUnit, Testcontainers)  
+- Maven e gerenciamento de dependências 
+- GitHub Actions e pipelines
 
 ---
 

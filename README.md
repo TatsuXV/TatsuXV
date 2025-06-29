@@ -1,47 +1,53 @@
-<h1 align="center">Olá! 👋 Eu sou o Gustavo</h1>
+<h1 align="center">Eu sou o Gustavo 👋</h1>
 
 <p align="center">
-  <strong>Estudante de Ciência da Computação</strong> <br>
-  Apaixonado por desenvolvimento backend e aprendizado constante.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=3AD9FF&center=true&vCenter=true&width=435&lines=Backend+Java+Developer;DevOps+Enthusiast;Apaixonado+por+Tecnologia+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Tecnologias que estou estudando:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+### 🚀 Sobre mim
+
+- 🎓 Cursando Ciência da Computação (2025–2028)
+- ☕ Desenvolvedor Java focado em **Backend** com **Spring Boot**
+- 🐳 Explorando o mundo DevOps: **Docker**, **GitHub Actions**, **CI/CD**
+- 💡 Sempre aprendendo e construindo projetos para evoluir e compartilhar conhecimento
 
 ---
 
-### 📈 Meus stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TatsuXV&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatsuXV&layout=compact&theme=tokyonight" />
+### 🛠️ Tecnologias que uso
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 </div>
 
 ---
 
-### 🧠 Em aprendizado
-- Java Avançado  
-- Spring Boot (REST API, JPA, etc.)  
-- SQL e Banco de Dados  
-- Versionamento com Git  
-- Lógica e algoritmos  
-- Docker e containers  
-- DevOps (CI/CD, integração e entrega contínua)  
-- Testes automatizados (JUnit, Testcontainers)  
-- Maven e gerenciamento de dependências 
-- GitHub Actions e pipelines
+### 📂 Projetos em Destaque
+
+🔹 [**API Java com DevOps**](https://github.com/TatsuXV/devops-java-api)  
+→ Projeto completo com estrutura profissional, CI/CD com GitHub Actions e Docker.
+
+🔹 [**Java Exercises**](https://github.com/TatsuXV/CadastroDeHer-is)  
+→ Um Projeto de uma API completa com Spring boot, JPA e SQL.
 
 ---
 
-### 📫 Contato
-- Email: gustavoquerino06@gmail.com  
-- LinkedIn: (https://www.linkedin.com/in/gustavo-luis-535a16295/)
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TatsuXV&show_icons=true&theme=github_dark&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TatsuXV&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+---
+
+### 🐍 Cobrinha das Contribuições
+
+```bash
+![snake gif](https://github.com/TatsuXV/TatsuXV/blob/output/github-contribution-grid-snake.svg)

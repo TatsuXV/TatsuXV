@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Cursando Ciência da Computação (2025–2028)
+- 🎓 Cursando Ciência da Computação (2025–2029)
 - ☕ Desenvolvedor Java focado em **Backend** com **Spring Boot**
 - 🐳 Explorando o mundo DevOps: **Docker**, **GitHub Actions**, **CI/CD**
 - 💡 Sempre aprendendo e construindo projetos para evoluir e compartilhar conhecimento

@@ -49,5 +49,4 @@
 
 ### 🐍 Cobrinha das Contribuições
 
-```bash
 ![snake gif](https://tatsuxv.github.io/TatsuXV/github-contribution-grid-snake.svg)

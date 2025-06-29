@@ -50,4 +50,4 @@
 ### 🐍 Cobrinha das Contribuições
 
 ```bash
-![snake gif](https://github.com/TatsuXV/TatsuXV/tree/main/.github/workflows/snake.yml)
+![snake gif](https://github.com/TatsuXV/TatsuXV/blob/output/github-contribution-grid-snake.svg)
